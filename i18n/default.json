@@ -1,0 +1,15 @@
+{
+  "Config.UseMod.Name": "Enable Mod",
+  "Config.UseMod.Tooltip": "Enable or disable this mod.",
+  "Config.RequireMet.Name": "Require NPC Introduction",
+  "Config.RequireMet.Tooltip": "Only allow gifting through doors after you have met the NPC.",
+  "Config.FriendshipMultiplier.Name": "Friendship Multiplier",
+  "Config.FriendshipMultiplier.Tooltip": "Friendship points multiplier applied when gifting through a door. A value of 1.0 matches normal gifting. Default is 0.25.",
+  "Config.FriendshipMultiplier.Text": "NOTE: Birthday gifts are not affected and will always be treated as though gifted in person.",
+
+  "Door.GiftOffer.Single": "Would you like to leave {{item}} for {{npc}}?",
+  "Door.GiftOffer.Multiple": "Would you like to leave {{item}} for someone inside?",
+  "Door.GiftOffer.Multiple.Who": "Who would you like to give it to?",
+  "Door.GiftOffer.Cancel": "Never mind.",
+  "Door.GiftGiven": "You left {{item}} at {{npc}}'s door."
+}

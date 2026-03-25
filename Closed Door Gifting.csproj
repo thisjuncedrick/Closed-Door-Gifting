@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<AssemblyName>ClosedDoorGifting</AssemblyName>
+
+		<UniqueId>ceddieeee.ClosedDoorGifting</UniqueId>
+		<Name>Closed Door Gifting</Name>
+		<Authors>ceddieeee</Authors>
+		<Description>"Knock" on locked doors to gift NPCs inside without entering.</Description>
+		<Version>1.0.0</Version>
+		<MinimumApiVersion>auto</MinimumApiVersion>
+		<MinimumGameVersion_Behavior>SetFull</MinimumGameVersion_Behavior>
+		<UpdateKeys>Nexus:44119;</UpdateKeys>
+	</PropertyGroup>
+
+	<PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+		<EnableHarmony>true</EnableHarmony>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Leclair.Stardew.ModManifestBuilder" Version="2.4.1" />
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.4.0" />
+    <PackageReference Include="Pathoschild.Stardew.ModTranslationClassBuilder" Version="2.2.1" />
+  </ItemGroup>
+
+</Project>

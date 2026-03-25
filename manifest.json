@@ -1,0 +1,21 @@
+{
+  /*
+   | This file is automatically updated by ModManifestBuilder
+   | when the project is compiled.
+   | 
+   | Changes made to this file may be overwritten.
+   | 
+   */
+  "$schema": "https://smapi.io/schemas/manifest.json",
+  "UniqueID": "ceddieeee.ClosedDoorGifting",
+  "Name": "Closed Door Gifting",
+  "Author": "ceddieeee",
+  "Version": "1.0.0",
+  "Description": "\"Knock\" on locked doors to gift NPCs inside without entering.",
+  "MinimumApiVersion": "4.5",
+  "MinimumGameVersion": "1.6.15",
+  "EntryDll": "ClosedDoorGifting.dll",
+  "UpdateKeys": [
+    "Nexus:44119"
+  ]
+}
