@@ -6,7 +6,7 @@
 		<Name>Closed Door Gifting</Name>
 		<Authors>ceddieeee</Authors>
 		<Description>"Knock" on locked doors to gift NPCs inside without entering.</Description>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<MinimumApiVersion>auto</MinimumApiVersion>
 		<MinimumGameVersion_Behavior>SetFull</MinimumGameVersion_Behavior>
 		<UpdateKeys>Nexus:44119;</UpdateKeys>

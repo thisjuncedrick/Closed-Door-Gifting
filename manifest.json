@@ -10,7 +10,7 @@
   "UniqueID": "ceddieeee.ClosedDoorGifting",
   "Name": "Closed Door Gifting",
   "Author": "ceddieeee",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "\"Knock\" on locked doors to gift NPCs inside without entering.",
   "MinimumApiVersion": "4.5",
   "MinimumGameVersion": "1.6.15",
