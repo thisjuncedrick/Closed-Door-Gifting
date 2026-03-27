@@ -1,0 +1,15 @@
+{
+  "Config.UseMod.Name": "启用Mod",
+  "Config.UseMod.Tooltip": "启用或禁用此Mod。",
+  "Config.RequireMet.Name": "需要认识NPC",
+  "Config.RequireMet.Tooltip": "只有在你认识了NPC之后才允许通过门进行送礼。",
+  "Config.FriendshipMultiplier.Name": "友谊值倍数",
+  "Config.FriendshipMultiplier.Tooltip": "通过门送礼时应用的友谊值倍数。1.0的值与正常送礼一致。默认值为0.25。",
+  "Config.FriendshipMultiplier.Text": "注意：生日礼物不受影响，将始终被视为亲自赠送。",
+
+  "Door.GiftOffer.Single": "你是否要将{{item}}放在{{npc}}的门口?",
+  "Door.GiftOffer.Multiple": "你是否要将{{item}}留给里面的人?",
+  "Door.GiftOffer.Multiple.Who": "你想要把它给谁?",
+  "Door.GiftOffer.Cancel": "算了吧。",
+  "Door.GiftGiven": "你在{{npc}}的门口留下了{{item}}。"
+} 
